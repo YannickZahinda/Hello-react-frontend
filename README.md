@@ -1,24 +1,11 @@
-# README
+# React on Rails project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple exercise of implementing a react frontend and a rails backend
 
-Things you may want to cover:
+# Build with
 
-* Ruby version
+>> Rails
 
-* System dependencies
+## Author
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Yannick Zahinda: [Github](https://github.com/YannickZahinda)
